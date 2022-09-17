@@ -41,7 +41,7 @@ class AdsFinder:
     '''
 
 
-    def __init__(self, search_keyword: str, nr_pages: int, driver_path=Service(executable_path="/home/n0_hacker/Documents/telegram_bot/geckodriver")):
+    def __init__(self, search_keyword: str, nr_pages: int, driver_path=Service(executable_path="your_path")):
 
         # path to driver;
         self.driver_path = driver_path
