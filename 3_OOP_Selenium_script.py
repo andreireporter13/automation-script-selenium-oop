@@ -37,7 +37,7 @@ SITE_LINK = 'https://www.publi24.ro/'
 # create a new class for my new script;
 class AdsFinder:
     '''
-    class create for gather sale data from libris.ro and another information
+    class create for gather sale data from publi24.ro and another information
     '''
 
 
